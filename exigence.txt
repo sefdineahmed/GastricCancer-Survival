@@ -1,0 +1,18 @@
+# exigence.txt (spécifications techniques)
+"""
+Configuration minimale requise :
+- Mémoire RAM : 4 Go minimum
+- Espace disque : 1 Go libre
+- Connexion internet stable
+
+Fonctionnalités clés :
+- Visualisation interactive des courbes de survie
+- Analyse multivariée par modèle de Cox
+- Prédictions personnalisées via machine learning
+- Interprétabilité des modèles par SHAP values
+
+Workflow de déploiement :
+1. Cloner le dépôt GitHub
+2. Installer les dépendances : pip install -r requirements.txt
+3. Lancer l'application : streamlit run app.py
+"""
