@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
+openpyxl
 #pickle5  # (Si pickle est utilisé pour charger des modèles, sinon inutile)
 matplotlib
 seaborn
