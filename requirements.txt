@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-pickle5  # (Si pickle est utilisé pour charger des modèles, sinon inutile)
+#pickle5  # (Si pickle est utilisé pour charger des modèles, sinon inutile)
 matplotlib
 seaborn
 lifelines
